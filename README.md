@@ -1,2 +1,2 @@
 # Way-of-PwN
-Trying to be gud
+Collection of pwn solution(probably).
